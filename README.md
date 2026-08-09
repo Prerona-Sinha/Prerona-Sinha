@@ -84,3 +84,21 @@ Programming
 Web Development
 Git & GitHub
 Problem Solving
+
+---
+###📊 My GitHub Journey
+
+💻 Writing code
+🐛 Finding bugs
+🔧 Fixing them
+📚 Learning from every project
+🚀 Building better things
+
+## 🤝 Let's Connect
+
+📧 **Email:** [preronasinha11@gmail.com](mailto:preronasinha11@gmail.com)
+
+💼 **LinkedIn:** [Prerona Sinha](https://www.linkedin.com/in/prerona-sinha-826390361)
+
+⭐ Thanks for visiting my profile!
+Keep learning. Keep building. Keep growing. 🌱
