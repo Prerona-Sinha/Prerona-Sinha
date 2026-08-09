@@ -78,21 +78,25 @@ Currently pursuing my undergraduate degree and continuously working on improving
 
 ## 🌱 Currently Learning
 
-```text
-Data Structures & Algorithms
-Programming
-Web Development
-Git & GitHub
-Problem Solving
+- Data Structures & Algorithms
+- Programming
+- Web Development
+- Git & GitHub
+- Problem Solving
 
 ---
-###📊 My GitHub Journey
 
-💻 Writing code
-🐛 Finding bugs
-🔧 Fixing them
-📚 Learning from every project
+## 📊 My GitHub Journey
+
+💻 Writing code  
+🐛 Finding bugs  
+🔧 Fixing them  
+📚 Learning from every project  
 🚀 Building better things
+
+Every project, commit and mistake is part of my journey towards becoming a better developer. 🌱
+
+---
 
 ## 🤝 Let's Connect
 
@@ -100,5 +104,8 @@ Problem Solving
 
 💼 **LinkedIn:** [Prerona Sinha](https://www.linkedin.com/in/prerona-sinha-826390361)
 
+---
+
 ⭐ Thanks for visiting my profile!
-Keep learning. Keep building. Keep growing. 🌱
+
+*Keep learning. Keep building. Keep growing.* 🌱
